@@ -1,0 +1,22 @@
+{
+  "repository": "alexandroit/stackline-types-mdast",
+  "packages": [
+    {
+      "name": "@stackline/types-mdast",
+      "path": "README.md",
+      "version": "1.0.1",
+      "baselineVersion": "1.0.0",
+      "keywords": [
+        "stackline",
+        "npm-package",
+        "types-mdast",
+        "typescript"
+      ],
+      "homepage": "https://alexandro.net/docs/vanilla/types-mdast/",
+      "baselineTarball": "https://registry.npmjs.org/@stackline/types-mdast/-/types-mdast-1.0.0.tgz",
+      "baselineIntegrity": "sha512-K1HHR9MmGolC4qpbrqGmMjIL1UrwwtXh1XOHjz8+gfP36MLeCppzbZvA4fiBb7aMZi+F0hOHW6BgbkCK8Bu18w==",
+      "expectedSha512": "05116c30432f8155f139370718efd014a6901c550e4ea8f0a39fc79f12b5c2e66a41def14868e05fd8ea5d4cec3fddfa7c289526a149aae25a93975708affaf5",
+      "tag": "docs-stackline-types-mdast-v1.0.1"
+    }
+  ]
+}
