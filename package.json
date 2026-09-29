@@ -1,8 +1,8 @@
 {
   "name": "@stackline/types-mdast",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "TypeScript definitions for mdast",
-  "homepage": "https://github.com/alexandroit/stackline-types-mdast#readme",
+  "homepage": "https://alexandro.net/docs/vanilla/types-mdast/",
   "license": "MIT",
   "contributors": [
     {
@@ -59,5 +59,11 @@
     "typescript": "5.9.3",
     "typescript-min": "npm:typescript@4.5.5",
     "@types/node": "18.11.18"
-  }
+  },
+  "keywords": [
+    "stackline",
+    "npm-package",
+    "types-mdast",
+    "typescript"
+  ]
 }
