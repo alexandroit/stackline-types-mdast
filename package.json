@@ -37,7 +37,7 @@
     "test:package": "node scripts/test-types.mjs package"
   },
   "dependencies": {
-    "@types/unist": "^2"
+    "@types/unist": "^3"
   },
   "typeScriptVersion": "4.5",
   "bugs": {
